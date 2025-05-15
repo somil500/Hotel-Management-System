@@ -17,6 +17,22 @@ This is a Java-based Hotel Management System that runs in the terminal and conne
 - Command Line Interface (CLI)
 
 ## How to Run
+## Example Output
+
+```text
+HOTEL MANAGEMENT
+DRIVER LOADED SUCCESSFULLY
+connection successfully done
+
+<---------------------> WELCOME TO HOTEL MANAGEMENT SYSTEM<------------------------->
+Services !!!
+1-------> New Reservation
+2-------> View All Reservation IN Hotel
+3-------> View Room Detailed
+4-------> Update Reservation detailed
+5-------> Close Reservation
+0-------> Exist
+
 
 ### Requirements:
 - JDK 8 or later
